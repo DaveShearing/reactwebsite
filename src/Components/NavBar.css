@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    
+}
+
+li {
+    
+    padding: 5px;
+}
+
+.navbar {
+    width: auto;
+    height: fit-content;
+    margin: auto;
+    
+    padding-left: 0px;
+    padding-bottom: 0px;
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

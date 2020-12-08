@@ -2,6 +2,47 @@
   text-align: center;
 }
 
+
+
+
+body {
+  background-color: #1a1a1d;
+  text-align: center;
+  
+}
+
+p {
+  color: #cccccc;
+}
+
+ul {
+  list-style-type: none;
+
+}
+
+li {
+  float: left;
+  padding: 5px;
+}
+
+.grid {
+  width: auto;
+    height: fit-content;
+    margin: auto;
+    
+    padding-left: 0px;
+    padding-bottom: 0px;
+
+    display: grid;
+    
+}
+
+
+
+a {
+  color: #cccccc
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
